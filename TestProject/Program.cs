@@ -5,26 +5,23 @@ using System.Text;
 using System.Threading.Tasks;
 using NUnit.Framework;
 
-namespace HelloWorld
+
+namespace TestProject
 {
-    public class Program
+    [TestFixture]
+    class Program
     {
-        public static int return1()
+
+        [Test]
+        public void Test()
         {
-            return 1;
+            Assert.AreEqual(1, 1);
         }
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-
-
-            var a = return1();
-
-
-            Console.ReadLine();
+            
         }
-    }
 
-    
+    }
 }

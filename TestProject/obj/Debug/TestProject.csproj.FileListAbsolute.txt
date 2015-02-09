@@ -1,0 +1,8 @@
+c:\users\martin.larsson\documents\visual studio 2013\Projects\HelloWorld\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+c:\users\martin.larsson\documents\visual studio 2013\Projects\HelloWorld\TestProject\bin\Debug\TestProject.exe.config
+c:\users\martin.larsson\documents\visual studio 2013\Projects\HelloWorld\TestProject\bin\Debug\TestProject.exe
+c:\users\martin.larsson\documents\visual studio 2013\Projects\HelloWorld\TestProject\bin\Debug\TestProject.pdb
+c:\users\martin.larsson\documents\visual studio 2013\Projects\HelloWorld\TestProject\bin\Debug\nunit.framework.dll
+c:\users\martin.larsson\documents\visual studio 2013\Projects\HelloWorld\TestProject\bin\Debug\nunit.framework.xml
+c:\users\martin.larsson\documents\visual studio 2013\Projects\HelloWorld\TestProject\obj\Debug\TestProject.exe
+c:\users\martin.larsson\documents\visual studio 2013\Projects\HelloWorld\TestProject\obj\Debug\TestProject.pdb
